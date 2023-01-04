@@ -15,6 +15,8 @@ Sebuah website berbasis E-Commerce dengan menggunakan Laravel 9
 
 - Gunakan "git clone" atau semacamnya untuk mendownload repository
 
+- Jalankan "composer install" untuk instalasi package composer yang diperlukan
+
 - Jalankan "php artisan migrate" jika ingin mengimport database MySQL 
 
 - Jalankan "php artisan serve" untuk running website
