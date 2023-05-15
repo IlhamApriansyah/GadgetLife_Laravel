@@ -17,6 +17,8 @@ Sebuah website berbasis E-Commerce dengan menggunakan Laravel 9
 
 - Jalankan "composer install" untuk instalasi package composer yang diperlukan
 
+- Jalankan "cp .env.example .env" untuk copy-paste konfigurasi database yang digunakan 
+
 - Jalankan "php artisan migrate" jika ingin mengimport database MySQL 
 
 - Jalankan "php artisan serve" untuk running website
