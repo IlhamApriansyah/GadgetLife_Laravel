@@ -21,6 +21,10 @@ Sebuah website berbasis E-Commerce dengan menggunakan Laravel 9
 
 - Jalankan "php artisan migrate" jika ingin mengimport database MySQL 
 
+- Jalankan "php artisan key:generate" untuk generate app dari laravel
+
+- Kemudian, jalankan "npm install && npm run build". Hal ini digunakan mengingat penggunaan Vite pada laravel dibutuhkan
+
 - Jalankan "php artisan serve" untuk running website
 
 ## Catatan Penting
